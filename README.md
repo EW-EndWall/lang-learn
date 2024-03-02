@@ -33,6 +33,7 @@
 Our Innovative Language Learning application offers users a simple and easy learning experience. Thanks to our user -friendly interface, a language student of all levels can increase their language skills wherever they want at any time.
 
 - Dark and bright mode feature
+- (En/Tr En/De)
 
 # Screenshot
 
