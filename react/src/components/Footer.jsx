@@ -19,7 +19,7 @@ export default (props) => {
             href="https://endwall.pw"
             rel="nofollow"
             target="_blank"
-            title="Designed by EWT"
+            title="developed by EWT"
             className="ml-1"
           >
             EWT
